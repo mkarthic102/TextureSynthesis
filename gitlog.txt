@@ -1,0 +1,241 @@
+commit b539321e2569b6cbaad706afa8ce848fe832b4bd
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sun Mar 20 19:36:35 2022 -0400
+
+    final touches to program (error checking)
+
+commit f92568ebd6c895c919ccb2ba4589b869426fded3
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sun Mar 20 11:59:06 2022 -0400
+
+    added comments, changed variable names, added better method descriptions
+
+commit 41749761adff67a9497e790886b589a96b9200f5
+Author: Amanda Ferber <aferber2@jhu.edu>
+Date:   Sat Mar 19 13:32:22 2022 -0400
+
+    optimized code by only computing gaussian for all rows/columns once
+
+commit 0362e692f5c5bb163f99c0878e04694454b09db8
+Author: Amanda Ferber <aferber2@jhu.edu>
+Date:   Sat Mar 19 12:50:49 2022 -0400
+
+    uncommented all debugging print statements and removed all warnings
+
+commit d807bb410e9c41f830d9772fea666c838a34fe8b
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Fri Mar 18 18:00:56 2022 -0400
+
+    Found the average difference and returned it in find_difference
+
+commit 81bc8cb0aebf7331f1e556de6345d9bb46013d6c
+Author: nicolesaade <nicolesaadea@gmail.com>
+Date:   Fri Mar 18 16:58:22 2022 -0400
+
+    Further debugging methods
+
+commit 9b9d9f74c8c2b1609d0dcdb64cbdae045b38a165
+Author: nicolesaade <nicolesaadea@gmail.com>
+Date:   Thu Mar 17 11:19:04 2022 -0400
+
+    Adding texture_synthesis.c debugging methods
+
+commit 60756af25633dd043bc8ce56b6108c4a957ca5b5
+Author: nicolesaade <nicolesaadea@gmail.com>
+Date:   Wed Mar 16 19:31:10 2022 -0400
+
+    Nicole added documentation
+
+commit cdb2b56b33a3a5cfbcd5e0d380ab235eeba967a1
+Author: nicolesaade <nicolesaadea@gmail.com>
+Date:   Wed Mar 16 19:25:42 2022 -0400
+
+    Documentation for ppm.c
+
+commit 05a3fb99004bb440dc928430a8ee2640ab5205c8
+Author: nicolesaade <nicolesaadea@gmail.com>
+Date:   Wed Mar 16 19:16:02 2022 -0400
+
+    texture_synthesis.c
+
+commit 0fd8ed417269f47f79359c66cd68f46ceac92eb5
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Wed Mar 16 00:48:29 2022 -0400
+
+    Amanda and Meghana were drivers. We wrote many helper functions for SynthesizeFromExemplar. Nicole was navigator
+
+commit 8cffc2a71639ad035e9995e1e171d3dc51e391e6
+Merge: e7c6ead 6a8166a
+Author: Amanda Ferber <aferber2@jhu.edu>
+Date:   Tue Mar 15 20:10:27 2022 -0400
+
+    nicole was driver; amanda and meghana were navigators
+
+commit e7c6ead865b14e8822026f9dd5ddb7ace8001695
+Author: Amanda Ferber <aferber2@jhu.edu>
+Date:   Tue Mar 15 20:04:46 2022 -0400
+
+    Amanda walked through the implementation and texting of the process. Nicole was driver, Meghana was navigator
+
+commit 6a8166a9e0df66bc7b761f4e9a92b3b6aebabd15
+Author: nicolesaade <nicolesaadea@gmail.com>
+Date:   Tue Mar 15 19:03:25 2022 -0400
+
+    Minor function fixing -Nicole
+
+commit 0ddcee740cb0caa466f2bbb167d11ec52a6d3ab6
+Author: nicolesaade <nicolesaadea@gmail.com>
+Date:   Tue Mar 15 18:46:48 2022 -0400
+
+    Amanda worked on additional helper functions to create pixel windows.
+
+commit d0211ce00deffd1fc7e10d980816c772acd671d4
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Tue Mar 15 00:02:38 2022 -0400
+
+    Meghana added comments and made code more readable in functions within texture_synthesis
+
+commit 8fae10d2cc502a6fdf037fa2fdd9c3633078bbba
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Mon Mar 14 22:13:53 2022 -0400
+
+    Minor changes to texture_synthesis.c. Meghana was driver. Amanda and Nicole were navigators
+
+commit 4a0588c21657e936a3ed6ce76e6473b308c0a683
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Mon Mar 14 21:50:03 2022 -0400
+
+    Finalized count_neighhbors. Nicole and Amanda were navigators and Meghana was the driver.
+
+commit b442cfe6c2bf47da9992c049511d0a082b618581
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Mon Mar 14 20:43:14 2022 -0400
+
+    Meghana created helper functions in texture_synthesis
+
+commit fd5a87820cdd1dc980e7f82fc96655bd9951698c
+Merge: 50df395 3c3b1d6
+Author: Amanda Ferber <aferber2@jhu.edu>
+Date:   Mon Mar 14 20:11:01 2022 -0400
+
+    debugging
+
+commit 50df39561d010019bf517d7cc31e7e6c7bbaffbc
+Author: Amanda Ferber <aferber2@jhu.edu>
+Date:   Mon Mar 14 20:05:21 2022 -0400
+
+    fixed function testing in main; Amanda worked on this
+
+commit 3c3b1d65a62cb028306ccbeb4d7efdb31407f751
+Author: nicolesaade <nicolesaadea@gmail.com>
+Date:   Mon Mar 14 19:44:04 2022 -0400
+
+    Declaring functions that set the number of neighboring pixels
+
+commit e0b4f9f3eec90df0f2efdd29bf3381990b1dde43
+Author: nicolesaade <nicolesaadea@gmail.com>
+Date:   Mon Mar 14 15:18:28 2022 -0400
+
+    Debugging method applied-We know where the bug is! (Nicole)
+
+commit 767b2493bb7cd472fd5d49ff966422bfd3a42435
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Mon Mar 14 11:59:31 2022 -0400
+
+    adding output file D20_out.ppm
+
+commit fb3931b57c28eb0e30009f79d95bbb50a59531fa
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Mon Mar 14 11:58:51 2022 -0400
+
+    Minor changes in texture_synthesis.o
+
+commit 9e7066890a442dafe65580cbec13af7cebd4c385
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Mon Mar 14 11:58:08 2022 -0400
+
+    Meghana made minor changes to count_neighhor
+
+commit fef685f76b02a65cd2908103d7edc3721e29f5e6
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Mon Mar 14 11:28:39 2022 -0400
+
+    Meghana made changes to texture_synthesis.c to fix inital seg fault issue
+
+commit b94e1c8e6e70d7c587f0487fbc9895c6aaae9f3d
+Author: nicolesaade <nicolesaadea@gmail.com>
+Date:   Sun Mar 13 21:57:02 2022 -0400
+
+    Other documents that were edited. Drivers: Amanda, Nicole and Meghana
+
+commit 866621482d424405c6a75a8c6e845211422e3b30
+Author: nicolesaade <nicolesaadea@gmail.com>
+Date:   Sun Mar 13 21:51:09 2022 -0400
+
+    Worked on Sythesize from exemplar helper functions. Nicole, Meghana and Amanda were all drivers.
+
+commit bb6c7a4b207b85d432924ffdd5999a4cff125991
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sat Mar 12 23:34:38 2022 -0500
+
+    fixed first helper function in texture_synthesis.c; Amanda worked individually
+
+commit 31fbd3497c071963161c4125a71782f81bb51efc
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sat Mar 12 22:22:05 2022 -0500
+
+    Nicole and Amanda tried to implement helper function and some progress was made!
+
+commit 65f7b86fafb5583d947d04b647993c4aa3e77eee
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sat Mar 12 19:52:55 2022 -0500
+
+    Wrote main method in project.c. Amanda driver in handling testing helper function. Nicole Driver in error handling from command line & comments. Meghana was navigator.
+
+commit f2f12b86bc3c6157e5d888f61a3684931e0ab7dc
+Author: nicolesaade <nicolesaadea@gmail.com>
+Date:   Sat Mar 12 19:34:47 2022 -0500
+
+    created helper function to process exemplar into new image; Amanda was driver, and Nicole and Meghana were navigators
+
+commit ac683b235244bca0b48a6dcf50fe1d0605d3c59b
+Author: Amanda Ferber <aferber2@jhu.edu>
+Date:   Mon Mar 7 11:33:57 2022 -0500
+
+    working FreeIMage function - Amanda was driver, Meghana was navigator
+
+commit 26958a835a22c2a5dff78c1c4977efdc432257e7
+Author: Amanda Ferber <aferber2@jhu.edu>
+Date:   Mon Mar 7 11:03:10 2022 -0500
+
+    working WritePPM function - Amanda was the driver, Meghana was the navigator
+
+commit 2fab374d0d54e240f62c626fc984c8f1cec95f5b
+Author: Amanda Ferber <aferber2@jhu.edu>
+Date:   Mon Mar 7 11:01:56 2022 -0500
+
+    working WritePPM function - Amanda was the driver, Meghana was the navigator
+
+commit de335f85c5f7b4d01399a562063c07b3f97f67c5
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sun Mar 6 00:03:14 2022 -0500
+
+    Nicole worked on Makefile, Amanda and Meghana collaborated on ppm.c, Amanda worked on project.c, Meghana worked on image.c
+
+commit 9fc1e8cfbf74dd8810c8701d4d7abe92e04e0878
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sat Mar 5 22:03:34 2022 -0500
+
+    Makefile that compiles!
+
+commit 4fd8a4ff91d51db43564b8dd7e38b8479495bf7e
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Thu Mar 3 19:44:52 2022 -0500
+
+    added data and results file
+
+commit 1447ed6ffdaac4c8a6fd17344048307fa74cf943
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Thu Mar 3 19:43:10 2022 -0500
+
+    added c and header files
